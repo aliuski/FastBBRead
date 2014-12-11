@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FastBBRead</string>
+    <string name="bbscreen_name">Keskustelu näyttö</string>
+    <string name="button_return">Palaa</string>
+    <string name="button_go">Mene</string>
+    <string name="not_found">Ei löytynyt!</string>
+    <string name="clear_column">Sarake valinta nollattu</string>
+    <string name="action_settings">Tyhjennä sarake valinta</string>
+    <string name="gobb_www">Mene keskusteluun</string>
+    <string name="selectcolumn">Valitse luettava sarake</string>
+	<string-array name="optioncolumn_arrays">
+        <item>Valitsematta</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
